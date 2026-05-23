@@ -14,56 +14,56 @@ An interactive web application for visualizing how Convolutional Neural Networks
 
 ### Road Map
 **Model Support**
- Support custom model uploads (.pth, .pt, .onnx, .h5)
- Add compatibility with popular architectures (LeNet, AlexNet, VGG, ResNet, EfficientNet)
- Enable transfer learning model inspection
- Multi-model comparison dashboard
+ - Support custom model uploads (.pth, .pt, .onnx, .h5)
+ - Add compatibility with popular architectures (LeNet, AlexNet, VGG, ResNet, EfficientNet)
+ - Enable transfer learning model inspection
+ - Multi-model comparison dashboard
 **Visualization & Interpretability**
- Layer-by-layer animation of CNN inference
- Visualize kernels and learned filters
- Feature map similarity analysis
- Activation maximization visualization
- Saliency maps and gradient visualization
- Grad-CAM / Grad-CAM++ support
- Class Activation Maps (CAM)
- Occlusion sensitivity analysis
- Decision boundary exploration
+ - Layer-by-layer animation of CNN inference
+ - Visualize kernels and learned filters
+ - Feature map similarity analysis
+ - Activation maximization visualization
+ - Saliency maps and gradient visualization
+ - Grad-CAM / Grad-CAM++ support
+ - Class Activation Maps (CAM)
+ - Occlusion sensitivity analysis
+ - Decision boundary exploration
 **Reverse Engineering & Explainability**
- Reconstruct input from intermediate activations
- Feature inversion and activation tracing
- Explain prediction confidence
- Highlight influential regions in input image
- Failure case analysis tools
+ - Reconstruct input from intermediate activations
+ - Feature inversion and activation tracing
+ - Explain prediction confidence
+ - Highlight influential regions in input image
+ - Failure case analysis tools
 **Training & Experimentation**
- Real-time training visualization
- Compare training runs and checkpoints
- Hyperparameter experimentation dashboard
- Live metric tracking (loss, accuracy, gradients)
- Dataset augmentation preview
+ - Real-time training visualization
+ - Compare training runs and checkpoints
+ - Hyperparameter experimentation dashboard
+ - Live metric tracking (loss, accuracy, gradients)
+ - Dataset augmentation preview
 **Dataset Support**
- Support CIFAR-10 / CIFAR-100
- Support Fashion-MNIST
- Custom dataset upload
- Dataset statistics explorer
+ - Support CIFAR-10 / CIFAR-100
+ - Support Fashion-MNIST
+ - Custom dataset upload
+ - Dataset statistics explorer
 **Educational Features**
- Guided walkthrough mode for beginners
- Step-by-step CNN execution explanation
- Interactive quizzes and tutorials
- Export visualization as report/PDF
+ - Guided walkthrough mode for beginners
+ - Step-by-step CNN execution explanation
+ - Interactive quizzes and tutorials
+ - Export visualization as report/PDF
 **Research Tools**
- Export intermediate activations
- Save reproducible experiment sessions
- Compare multiple explainability methods
- Benchmark visualization performance
+ - Export intermediate activations
+ - Save reproducible experiment sessions
+ - Compare multiple explainability methods
+ - Benchmark visualization performance
 **Deployment & Collaboration**
- Docker support
- Cloud inference integration
- Shareable visualization links
- Collaborative workspace
- API for external integrations
+ - Docker support
+ - Cloud inference integration
+ - Shareable visualization links
+ - Collaborative workspace
+ - API for external integrations
 **Long-Term Vision**
- Extend visualization beyond CNNs to Transformers and Vision-Language Models
- Unified neural network interpretability platform
+ - Extend visualization beyond CNNs to Transformers and Vision-Language Models
+ - Unified neural network interpretability platform
 
 ### Use Cases
 
